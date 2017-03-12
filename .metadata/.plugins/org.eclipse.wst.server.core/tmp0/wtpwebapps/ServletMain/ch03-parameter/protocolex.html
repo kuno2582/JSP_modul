@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	
+	<form action="/ServletMain/ProtocolEx" method="post">
+		프로토콜 선택<br>
+		<select name="protocol">
+			<option value="http">http</option>
+			<option value="tcpip">tcpip</option>
+			<option value="udp">udp</option>
+			<option value="ftp">ftp</option>
+			<option value="pop">pop</option>
+			<option value="smtp">smtp</option>
+			<option value="telnet">telnet</option>
+			<option value="dns">dns</option>
+			<option value="ntp">ntp</option>
+			<option value="https">https</option>
+		</select>
+		<input type="submit" value="전송">
+		<input type="reset" value="초기화">
+	</form>
+	
+</body>
+</html>

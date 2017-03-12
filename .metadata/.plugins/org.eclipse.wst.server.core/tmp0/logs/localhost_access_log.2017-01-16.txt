@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [16/Jan/2017:20:28:24 +0900] "GET /jspMain/ch10-mvc/01/list.jsp HTTP/1.1" 200 777
+0:0:0:0:0:0:0:1 - - [16/Jan/2017:20:28:24 +0900] "GET /jspMain/ch10-mvc/01/board.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [16/Jan/2017:20:28:30 +0900] "GET /jspMain/ch10-mvc/01/write_view.do HTTP/1.1" 200 881
+0:0:0:0:0:0:0:1 - - [16/Jan/2017:20:28:34 +0900] "GET /jspMain/ch10-mvc/01/list.do HTTP/1.1" 200 777
