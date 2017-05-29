@@ -28,14 +28,14 @@
 	z-index: 1;
 }
 
-@media ( max-width : 576px) {<div id="map" style="width:100%;height:400px;"></div><div id="map" style="width:100%;height:400px;"></div>
+@media ( max-width : 576px) {
 	nav>.container {
 		width: 100%;
 	}
 }
 
 .bx-wrapper, .bx-viewport {
-    height: 500px !important; 
+    height: 400px !important; 
 }
 
 .bx-viewport {
@@ -93,8 +93,8 @@
 		<!-- Info row -->
 		<div class="row">
 			<div class="col-sm-8">
-				<h2 class="mt-4 introduce-h2">
-					<b>신 명 정 밀</b>
+				<h2 class="mt-4 MachineInfo-h2">
+					<strong>신 명 정 밀</strong>
 				</h2>
 				<p class="introduce-p">
 					<br>신명정밀은 1997년 설립되어 국내뿐만 아니라 전세계적으로 사용되는 유압밸브를 가공하는 기업으로 발전해
@@ -106,7 +106,7 @@
 			<div class="col-sm-4">
 				<h2 class="mt-4">Contact Us</h2>
 				<div>
-					<strong>신 명 정 밀</strong> <br>
+					<strong>신 명 정 밀</strong><br>
 					<b>경기도 화성시 남양읍 <br>주석로 79-5
 					</b> <br>
 				</div>
