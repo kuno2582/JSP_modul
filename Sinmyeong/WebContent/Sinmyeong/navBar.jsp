@@ -36,7 +36,7 @@ if(isActive.equals("index.jsp")){
 				<li class="nav-item <%=indexActive%>"><a class="nav-link" href="index.jsp">Home</a></li>
 				<li class="nav-item <%=sectionActive%>"><a class="nav-link" href="sectionHeding.jsp">About</a></li>
 				<li class="nav-item <%=portfolioActive%>"><a class="nav-link" href="portfolio.jsp">Product</a></li>
-				<li class="nav-item <%=landingActive%>"><a class="nav-link" href="LandingPage.jsp">Certificate</a></li>
+				<li class="nav-item <%=landingActive%>"><a class="nav-link" href="LandingPage.jsp">Certifications</a></li>
 			</ul>
 		</div>
 	</div>

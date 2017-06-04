@@ -11,7 +11,7 @@
 				<h4 class="card-title"><b>2way block 2hole</b></h4>
 			</div>
 			<div class="card-footer">
-				<a href="#" class="btn btn-primary">상세보기</a>
+				<a href="portfolio.jsp?valve=2way_block_2hole" class="btn btn-primary">상세보기</a>
 			</div>
 		</div>
 	</div>
@@ -23,7 +23,7 @@
 				<h4 class="card-title"><b>2way block 3hole</b></h4>
 			</div>
 			<div class="card-footer">
-				<a href="#" class="btn btn-primary">상세보기</a>
+				<a href="portfolio.jsp?valve=2way_block_3hole" class="btn btn-primary">상세보기</a>
 			</div>
 		</div>
 	</div>
@@ -35,7 +35,7 @@
 				<h4 class="card-title"><b>2way block type</b></h4>
 			</div>
 			<div class="card-footer">
-				<a href="#" class="btn btn-primary">상세보기</a>
+				<a href="portfolio.jsp?valve=2-way_valve_block_type" class="btn btn-primary">상세보기</a>
 			</div>
 		</div>
 	</div>		
@@ -47,7 +47,7 @@
 				<h4 class="card-title"><b>2way gauge</b></h4>
 			</div>
 			<div class="card-footer">
-				<a href="#" class="btn btn-primary">상세보기</a>
+				<a href="portfolio.jsp?valve=2-way_pressure_gauge" class="btn btn-primary">상세보기</a>
 			</div>
 		</div>
 	</div>	
@@ -59,7 +59,7 @@
 				<h4 class="card-title"><b>3way block handle</b></h4>
 			</div>
 			<div class="card-footer">
-				<a href="#" class="btn btn-primary">상세보기</a>
+				<a href="portfolio.jsp?valve=3way_block_handle_copy" class="btn btn-primary">상세보기</a>
 			</div>
 		</div>
 	</div>	
@@ -71,7 +71,7 @@
 				<h4 class="card-title"><b>3way block type</b></h4>
 			</div>
 			<div class="card-footer">
-				<a href="#" class="btn btn-primary">상세보기</a>
+				<a href="portfolio.jsp?valve=3way_block_type" class="btn btn-primary">상세보기</a>
 			</div>
 		</div>
 	</div>	
@@ -83,7 +83,7 @@
 				<h4 class="card-title"><b>3way oval frange valve</b></h4>
 			</div>
 			<div class="card-footer">
-				<a href="#" class="btn btn-primary">상세보기</a>
+				<a href="portfolio.jsp?valve=3-way_oval_frange_valve" class="btn btn-primary">상세보기</a>
 			</div>
 		</div>
 	</div>
@@ -95,7 +95,7 @@
 				<h4 class="card-title"><b>3way screw type</b></h4>
 			</div>
 			<div class="card-footer">
-				<a href="#" class="btn btn-primary">상세보기</a>
+				<a href="portfolio.jsp?valve=3-way_screw_type" class="btn btn-primary">상세보기</a>
 			</div>
 		</div>
 	</div>	
@@ -107,7 +107,7 @@
 				<h4 class="card-title"><b>5way block type</b></h4>
 			</div>
 			<div class="card-footer">
-				<a href="#" class="btn btn-primary">상세보기</a>
+				<a href="portfolio.jsp?valve=5-way_block_type" class="btn btn-primary">상세보기</a>
 			</div>
 		</div>
 	</div>	
@@ -119,7 +119,7 @@
 				<h4 class="card-title"><b>5way screw type</b></h4>
 			</div>
 			<div class="card-footer">
-				<a href="#" class="btn btn-primary">상세보기</a>
+				<a href="portfolio.jsp?valve=5-way_screw_type_valve" class="btn btn-primary">상세보기</a>
 			</div>
 		</div>
 	</div>
@@ -131,7 +131,7 @@
 				<h4 class="card-title"><b>5way Single type</b></h4>
 			</div>
 			<div class="card-footer">
-				<a href="#" class="btn btn-primary">상세보기</a>
+				<a href="portfolio.jsp?valve=5-way_single_type_valve" class="btn btn-primary">상세보기</a>
 			</div>
 		</div>
 	</div>

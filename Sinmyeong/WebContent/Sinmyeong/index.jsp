@@ -94,6 +94,8 @@
 		<div class="row">
 			<div class="col-sm-8">
 				<h2 class="mt-4 MachineInfo-h2">
+				<img class="card-img-top img-fluid" width="50px;"
+						src="./css/images/Sinmyung_mark_e.jpg" alt="">
 					<strong>신 명 정 밀</strong>
 				</h2>
 				<p class="introduce-p">
@@ -111,8 +113,9 @@
 					</b> <br>
 				</div>
 				<div>
-					<abbr title="Phone">P:</abbr> (031) 357-4741 <br> <abbr
-						title="Email">E:</abbr> <a href="mailto:kjh6109@hanmail.net">kjh6109@hanmail.net</a>
+					<abbr title="Phone">P:</abbr> (031) 357-4741 <br> 
+					<abbr title="Mobile">M:</abbr> 010-3749-6109 <br>
+					<abbr title="Email">E:</abbr> <a href="mailto:kjh6109@hanmail.net">kjh6109@hanmail.net</a>
 				</div>
 			</div>
 		</div>
@@ -170,14 +173,9 @@
 	</div>
 	<!-- /.container -->
 
-	<!-- Footer -->
-	<footer class="py-5 bg-inverse">
-		<div class="container">
-			<p class="m-0 text-center text-white">Copyright &copy; Your
-				Website 2017</p>
-		</div>
-		<!-- /.container -->
-	</footer>
+	<!-- Footer S -->
+	<jsp:include page="footer.jsp" flush="false" />
+	<!-- Footer E -->
 
 	<!-- Bootstrap core JavaScript -->
 	<script src="vendor/jquery/jquery.min.js"></script>
